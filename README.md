@@ -4,5 +4,5 @@
 - 🔭 If I receive an offer, I will start working as soon as possible.
 
 - 📫 How to reach me **egor.sh23@gmail.com**
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bity3pip&show_icons=true&theme=highcontrast)" alt="bite3pip" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bity3pip&show_icons=true&theme=highcontrast" alt="bite3pip" /></p>
 
