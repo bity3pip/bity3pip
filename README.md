@@ -8,7 +8,6 @@
 #### 🤝  About Me:
 ```
 Python Backend Developer in Django 🔥
-Skilled in building scalable software architectures and optimizing system performance 👨🏻‍💻
 Seeking an entry-level position to begin my career in high-level professional environment. 🤝
 I like learn and get new experience. I am currently unemployed. 📄
 If I receive an offer, I will start working as soon as possible. 💎
