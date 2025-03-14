@@ -34,7 +34,7 @@ Hey there, I'm Yehor!
   </tr>
   <tr>
     
-        🇩🇪 Deutch - Begginer
+        🇩🇪 Deutsch - Begginer
         
   </tr>
 </table>
