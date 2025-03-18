@@ -106,11 +106,6 @@ Hey there, I'm Yehor!
   <a href="https://github.com/bity3pip/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bity3pip&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
   </tr>
-  <tr>
-  <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=bity3pip&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Yehor Shmatko GitHub Readme Streak Stats" /> </a>
-  </td>
-  </tr>
 </table>
 
 <div align="center">
